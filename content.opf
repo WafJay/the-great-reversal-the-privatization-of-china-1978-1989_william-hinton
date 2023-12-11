@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>大逆转：中国私有化 1978-1989</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="[美] 韩丁">[美] 韩丁</dc:creator>
+    <dc:contributor opf:role="bkp">云出岫 [https://t.me/WafJay]</dc:contributor>
+    <dc:date>2004-07-24T06:36:36+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a2de7aee-4d48-4219-b9ca-0590ed8175b9</dc:identifier>
+    <dc:language>und</dc:language>
+    <dc:identifier opf:scheme="calibre">a2de7aee-4d48-4219-b9ca-0590ed8175b9</dc:identifier>
+    <meta name="calibre:timestamp" content="2023-12-11T04:55:32.610592+00:00"/>
+    <meta name="calibre:title_sort" content="大逆转：中国私有化 1978-1989"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id" href="text/chapter1.html" media-type="application/xhtml+xml"/>
+    <item id="id1" href="text/chapter2.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="id9" href="index-3_1.png" media-type="image/png"/>
+    <item id="id2" href="text/endnote.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="toc.css" media-type="text/css"/>
+    <item id="id3" href="text/chapter3.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="text/chapter4.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="id1"/>
+    <itemref idref="id3"/>
+    <itemref idref="id5"/>
+    <itemref idref="id2"/>
+    <itemref idref="id15"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="a2de7aee-4d48-4219-b9ca-0590ed8175b9"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="calibre (7.1.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>大逆转：中国私有化 1978-1989</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>大逆转</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+      <navPoint id="num_2" playOrder="2" class="chapter">
+        <navLabel>
+          <text>前言</text>
+        </navLabel>
+        <content src="text/chapter1.html"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3" class="chapter">
+        <navLabel>
+          <text>简介：中国的农村改革</text>
+        </navLabel>
+        <content src="text/chapter2.html"/>
+        <navPoint id="num_4" playOrder="4" class="chapter">
+          <navLabel>
+            <text>细碎土地上的成功</text>
+          </navLabel>
+          <content src="text/chapter2.html#section-1"/>
+        </navPoint>
+        <navPoint id="num_5" playOrder="5" class="chapter">
+          <navLabel>
+            <text>进一步，退两步</text>
+          </navLabel>
+          <content src="text/chapter2.html#section-2"/>
+        </navPoint>
+        <navPoint id="num_6" playOrder="6" class="chapter">
+          <navLabel>
+            <text>责骂的典范</text>
+          </navLabel>
+          <content src="text/chapter2.html#section-3"/>
+        </navPoint>
+        <navPoint id="num_7" playOrder="7" class="chapter">
+          <navLabel>
+            <text>精明而可怕的特色</text>
+          </navLabel>
+          <content src="text/chapter2.html#section-4"/>
+        </navPoint>
+        <navPoint id="num_8" playOrder="8" class="chapter">
+          <navLabel>
+            <text>天安门事件之后</text>
+          </navLabel>
+          <content src="text/chapter2.html#section-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>中国的一个小城镇： 1978年的张庄</text>
+        </navLabel>
+        <content src="text/chapter3.html"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10" class="chapter">
+        <navLabel>
+          <text>凤阳之行 1983</text>
+        </navLabel>
+        <content src="text/chapter4.html"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>大刀阔斧的改革，农村的变化 1984</text>
+        </navLabel>
+        <content src="index_split_000.html#p30"/>
+        <navPoint id="num_12" playOrder="11" class="chapter">
+          <navLabel>
+            <text>倒退到60年代？</text>
+          </navLabel>
+          <content src="index_split_000.html#p30"/>
+        </navPoint>
+        <navPoint id="num_13" playOrder="11" class="chapter">
+          <navLabel>
+            <text>鼓励分工</text>
+          </navLabel>
+          <content src="index_split_000.html#p30"/>
+        </navPoint>
+        <navPoint id="num_14" playOrder="12" class="chapter">
+          <navLabel>
+            <text>经济成果</text>
+          </navLabel>
+          <content src="index_split_000.html#p31"/>
+        </navPoint>
+        <navPoint id="num_15" playOrder="13" class="chapter">
+          <navLabel>
+            <text>资源的破坏</text>
+          </navLabel>
+          <content src="index_split_000.html#p32"/>
+        </navPoint>
+        <navPoint id="num_16" playOrder="13" class="chapter">
+          <navLabel>
+            <text>雇佣劳动</text>
+          </navLabel>
+          <content src="index_split_000.html#p32"/>
+        </navPoint>
+        <navPoint id="num_17" playOrder="14" class="chapter">
+          <navLabel>
+            <text>可怕的风俗</text>
+          </navLabel>
+          <content src="index_split_000.html#p33"/>
+        </navPoint>
+        <navPoint id="num_18" playOrder="14" class="chapter">
+          <navLabel>
+            <text>越来越多的人脱离农业</text>
+          </navLabel>
+          <content src="index_split_000.html#p33"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_19" playOrder="15" class="chapter">
+        <navLabel>
+          <text>草原现状</text>
+        </navLabel>
+        <content src="index_split_000.html#p35"/>
+        <navPoint id="num_20" playOrder="15" class="chapter">
+          <navLabel>
+            <text>聚焦过度放牧</text>
+          </navLabel>
+          <content src="index_split_000.html#p35"/>
+        </navPoint>
+        <navPoint id="num_21" playOrder="16" class="chapter">
+          <navLabel>
+            <text>改变管理制度</text>
+          </navLabel>
+          <content src="index_split_000.html#p36"/>
+        </navPoint>
+        <navPoint id="num_22" playOrder="17" class="chapter">
+          <navLabel>
+            <text>改变价格体制</text>
+          </navLabel>
+          <content src="index_split_000.html#p37"/>
+        </navPoint>
+        <navPoint id="num_23" playOrder="18" class="chapter">
+          <navLabel>
+            <text>通常的一些误解</text>
+          </navLabel>
+          <content src="index_split_000.html#p38"/>
+        </navPoint>
+        <navPoint id="num_24" playOrder="19" class="chapter">
+          <navLabel>
+            <text>减少汉族移民</text>
+          </navLabel>
+          <content src="index_split_000.html#p39"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_25" playOrder="20" class="chapter">
+        <navLabel>
+          <text>解读改革：1986年农村的变化</text>
+        </navLabel>
+        <content src="index_split_000.html#p40"/>
+        <navPoint id="num_26" playOrder="20" class="chapter">
+          <navLabel>
+            <text>贸易问题</text>
+          </navLabel>
+          <content src="index_split_000.html#p40"/>
+        </navPoint>
+        <navPoint id="num_27" playOrder="21" class="chapter">
+          <navLabel>
+            <text>农民减负</text>
+          </navLabel>
+          <content src="index_split_000.html#p41"/>
+        </navPoint>
+        <navPoint id="num_28" playOrder="22" class="chapter">
+          <navLabel>
+            <text>一个仍然正常运行的集体经济</text>
+          </navLabel>
+          <content src="index_split_000.html#p42"/>
+        </navPoint>
+        <navPoint id="num_29" playOrder="23" class="chapter">
+          <navLabel>
+            <text>合作化的成功</text>
+          </navLabel>
+          <content src="index_split_000.html#p43"/>
+        </navPoint>
+        <navPoint id="num_30" playOrder="24" class="chapter">
+          <navLabel>
+            <text>草原上的两极分化</text>
+          </navLabel>
+          <content src="index_split_000.html#p44"/>
+        </navPoint>
+        <navPoint id="num_31" playOrder="25" class="chapter">
+          <navLabel>
+            <text>荒野山地，未开发的草地</text>
+          </navLabel>
+          <content src="index_split_000.html#p45"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_32" playOrder="26" class="chapter">
+        <navLabel>
+          <text>改革所绕过的：农业机械化 1986</text>
+        </navLabel>
+        <content src="index_split_000.html#p47"/>
+        <navPoint id="num_33" playOrder="27" class="chapter">
+          <navLabel>
+            <text>失业问题</text>
+          </navLabel>
+          <content src="index_split_000.html#p48"/>
+        </navPoint>
+        <navPoint id="num_34" playOrder="28" class="chapter">
+          <navLabel>
+            <text>比例和范围的问题</text>
+          </navLabel>
+          <content src="index_split_000.html#p49"/>
+        </navPoint>
+        <navPoint id="num_35" playOrder="29" class="chapter">
+          <navLabel>
+            <text>应当具备的多样性和弹性</text>
+          </navLabel>
+          <content src="index_split_000.html#p50"/>
+        </navPoint>
+        <navPoint id="num_36" playOrder="30" class="chapter">
+          <navLabel>
+            <text>适当的社会组织</text>
+          </navLabel>
+          <content src="index_split_000.html#p51"/>
+        </navPoint>
+        <navPoint id="num_37" playOrder="30" class="chapter">
+          <navLabel>
+            <text>政府支持的形式</text>
+          </navLabel>
+          <content src="index_split_000.html#p51"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_38" playOrder="31" class="chapter">
+        <navLabel>
+          <text>重访大寨：1987年</text>
+        </navLabel>
+        <content src="index_split_000.html#p53"/>
+        <navPoint id="num_39" playOrder="31" class="chapter">
+          <navLabel>
+            <text>充满偏见的比较</text>
+          </navLabel>
+          <content src="index_split_000.html#p53"/>
+        </navPoint>
+        <navPoint id="num_40" playOrder="32" class="chapter">
+          <navLabel>
+            <text>下滑的农业</text>
+          </navLabel>
+          <content src="index_split_000.html#p55"/>
+        </navPoint>
+        <navPoint id="num_41" playOrder="33" class="chapter">
+          <navLabel>
+            <text>待拯救的煤矿</text>
+          </navLabel>
+          <content src="index_split_000.html#p56"/>
+        </navPoint>
+        <navPoint id="num_42" playOrder="34" class="chapter">
+          <navLabel>
+            <text>诽谤的背后</text>
+          </navLabel>
+          <content src="index_split_000.html#p57"/>
+        </navPoint>
+        <navPoint id="num_43" playOrder="35" class="chapter">
+          <navLabel>
+            <text>过去和现在，充满讽刺意味的教训</text>
+          </navLabel>
+          <content src="index_split_000.html#p58"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_44" playOrder="36" class="chapter">
+        <navLabel>
+          <text>毛泽东农村政策再思</text>
+        </navLabel>
+        <content src="index_split_000.html#p60"/>
+        <navPoint id="num_45" playOrder="36" class="chapter">
+          <navLabel>
+            <text>粮食战线</text>
+          </navLabel>
+          <content src="index_split_000.html#p60"/>
+        </navPoint>
+        <navPoint id="num_46" playOrder="37" class="chapter">
+          <navLabel>
+            <text>剪刀差</text>
+          </navLabel>
+          <content src="index_split_000.html#p61"/>
+        </navPoint>
+        <navPoint id="num_47" playOrder="38" class="chapter">
+          <navLabel>
+            <text>命令主义（Commandism）</text>
+          </navLabel>
+          <content src="index_split_000.html#p62"/>
+        </navPoint>
+        <navPoint id="num_48" playOrder="39" class="chapter">
+          <navLabel>
+            <text>私有化风潮</text>
+          </navLabel>
+          <content src="index_split_000.html#p63"/>
+        </navPoint>
+        <navPoint id="num_49" playOrder="40" class="chapter">
+          <navLabel>
+            <text>形“左”实右</text>
+          </navLabel>
+          <content src="index_split_000.html#p65"/>
+        </navPoint>
+        <navPoint id="num_50" playOrder="41" class="chapter">
+          <navLabel>
+            <text>文化革命</text>
+          </navLabel>
+          <content src="index_split_000.html#p66"/>
+        </navPoint>
+        <navPoint id="num_51" playOrder="42" class="chapter">
+          <navLabel>
+            <text>可疑的政策主张</text>
+          </navLabel>
+          <content src="index_split_000.html#p67"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_52" playOrder="43" class="chapter">
+        <navLabel>
+          <text>为什么不走资本主义的道路?</text>
+        </navLabel>
+        <content src="index_split_000.html#p69"/>
+        <navPoint id="num_53" playOrder="43" class="chapter">
+          <navLabel>
+            <text>新民主主义的提出</text>
+          </navLabel>
+          <content src="index_split_000.html#p69"/>
+        </navPoint>
+        <navPoint id="num_54" playOrder="44" class="chapter">
+          <navLabel>
+            <text>饭碗：金的，铁的，瓷的</text>
+          </navLabel>
+          <content src="index_split_000.html#p70"/>
+        </navPoint>
+        <navPoint id="num_55" playOrder="45" class="chapter">
+          <navLabel>
+            <text>小土地的保障</text>
+          </navLabel>
+          <content src="index_split_000.html#p72"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_56" playOrder="46" class="chapter">
+        <navLabel>
+          <text>天安门屠杀：1989年的6月</text>
+        </navLabel>
+        <content src="index_split_000.html#p74"/>
+        <navPoint id="num_57" playOrder="47" class="chapter">
+          <navLabel>
+            <text>广播哑了</text>
+          </navLabel>
+          <content src="index_split_000.html#p75"/>
+        </navPoint>
+        <navPoint id="num_58" playOrder="47" class="chapter">
+          <navLabel>
+            <text>夜里开火</text>
+          </navLabel>
+          <content src="index_split_000.html#p75"/>
+        </navPoint>
+        <navPoint id="num_59" playOrder="48" class="chapter">
+          <navLabel>
+            <text>午后的死亡</text>
+          </navLabel>
+          <content src="index_split_000.html#p76"/>
+        </navPoint>
+        <navPoint id="num_60" playOrder="49" class="chapter">
+          <navLabel>
+            <text>给人民一次教训</text>
+          </navLabel>
+          <content src="index_split_000.html#p77"/>
+        </navPoint>
+        <navPoint id="num_61" playOrder="49" class="chapter">
+          <navLabel>
+            <text>对强权说真理</text>
+          </navLabel>
+          <content src="index_split_000.html#p77"/>
+        </navPoint>
+        <navPoint id="num_62" playOrder="50" class="chapter">
+          <navLabel>
+            <text>被糟蹋的统治权</text>
+          </navLabel>
+          <content src="index_split_000.html#p78"/>
+        </navPoint>
+        <navPoint id="num_63" playOrder="51" class="chapter">
+          <navLabel>
+            <text>广大的进步联盟</text>
+          </navLabel>
+          <content src="index_split_000.html#p79"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,19 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+
+p {
+  text-indent: 2em
+}
+
+blockquote footer {
+  text-align: right;
+}
+blockquote footer cite {
+  font-style: normal;
+}
+blockquote p {
+  line-height: 1.5em;
+  margin: 0;
+}
