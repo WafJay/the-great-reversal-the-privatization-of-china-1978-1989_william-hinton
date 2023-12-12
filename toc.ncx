@@ -122,7 +122,7 @@
         <navLabel>
           <text>草原现状</text>
         </navLabel>
-        <content src="index_split_000.html#p35"/>
+        <content src="text/chapter6.html"/>
         <navPoint id="num_20" playOrder="15" class="chapter">
           <navLabel>
             <text>聚焦过度放牧</text>
