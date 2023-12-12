@@ -79,43 +79,43 @@
           <navLabel>
             <text>倒退到60年代？</text>
           </navLabel>
-          <content src="index_split_000.html#p30"/>
+          <content src="text/chapter5.html#section-1"/>
         </navPoint>
         <navPoint id="num_13" playOrder="11" class="chapter">
           <navLabel>
             <text>鼓励分工</text>
           </navLabel>
-          <content src="index_split_000.html#p30"/>
+          <content src="text/chapter5.html#section-2"/>
         </navPoint>
         <navPoint id="num_14" playOrder="12" class="chapter">
           <navLabel>
             <text>经济成果</text>
           </navLabel>
-          <content src="index_split_000.html#p31"/>
+          <content src="text/chapter5.html#section-3"/>
         </navPoint>
         <navPoint id="num_15" playOrder="13" class="chapter">
           <navLabel>
             <text>资源的破坏</text>
           </navLabel>
-          <content src="index_split_000.html#p32"/>
+          <content src="text/chapter5.html#section-4"/>
         </navPoint>
         <navPoint id="num_16" playOrder="13" class="chapter">
           <navLabel>
             <text>雇佣劳动</text>
           </navLabel>
-          <content src="index_split_000.html#p32"/>
+          <content src="text/chapter5.html#section-5"/>
         </navPoint>
         <navPoint id="num_17" playOrder="14" class="chapter">
           <navLabel>
             <text>可怕的风俗</text>
           </navLabel>
-          <content src="index_split_000.html#p33"/>
+          <content src="text/chapter5.html#section-6"/>
         </navPoint>
         <navPoint id="num_18" playOrder="14" class="chapter">
           <navLabel>
             <text>越来越多的人脱离农业</text>
           </navLabel>
-          <content src="index_split_000.html#p33"/>
+          <content src="text/chapter5.html#section-7"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_19" playOrder="15" class="chapter">
