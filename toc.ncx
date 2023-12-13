@@ -127,31 +127,31 @@
           <navLabel>
             <text>聚焦过度放牧</text>
           </navLabel>
-          <content src="index_split_000.html#p35"/>
+          <content src="text/chapter6.html#section-1"/>
         </navPoint>
         <navPoint id="num_21" playOrder="16" class="chapter">
           <navLabel>
             <text>改变管理制度</text>
           </navLabel>
-          <content src="index_split_000.html#p36"/>
+          <content src="text/chapter6.html#section-2"/>
         </navPoint>
         <navPoint id="num_22" playOrder="17" class="chapter">
           <navLabel>
             <text>改变价格体制</text>
           </navLabel>
-          <content src="index_split_000.html#p37"/>
+          <content src="text/chapter6.html#section-3"/>
         </navPoint>
         <navPoint id="num_23" playOrder="18" class="chapter">
           <navLabel>
             <text>通常的一些误解</text>
           </navLabel>
-          <content src="index_split_000.html#p38"/>
+          <content src="text/chapter6.html#section-4"/>
         </navPoint>
         <navPoint id="num_24" playOrder="19" class="chapter">
           <navLabel>
             <text>减少汉族移民</text>
           </navLabel>
-          <content src="index_split_000.html#p39"/>
+          <content src="text/chapter6.html#section-5"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_25" playOrder="20" class="chapter">
