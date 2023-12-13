@@ -158,42 +158,42 @@
         <navLabel>
           <text>解读改革：1986年农村的变化</text>
         </navLabel>
-        <content src="index_split_000.html#p40"/>
+        <content src="text/chapter7.html"/>
         <navPoint id="num_26" playOrder="20" class="chapter">
           <navLabel>
             <text>贸易问题</text>
           </navLabel>
-          <content src="index_split_000.html#p40"/>
+          <content src="text/chapter7.html#section-1"/>
         </navPoint>
         <navPoint id="num_27" playOrder="21" class="chapter">
           <navLabel>
             <text>农民减负</text>
           </navLabel>
-          <content src="index_split_000.html#p41"/>
+          <content src="text/chapter7.html#section-2"/>
         </navPoint>
         <navPoint id="num_28" playOrder="22" class="chapter">
           <navLabel>
             <text>一个仍然正常运行的集体经济</text>
           </navLabel>
-          <content src="index_split_000.html#p42"/>
+          <content src="text/chapter7.html#section-3"/>
         </navPoint>
         <navPoint id="num_29" playOrder="23" class="chapter">
           <navLabel>
             <text>合作化的成功</text>
           </navLabel>
-          <content src="index_split_000.html#p43"/>
+          <content src="text/chapter7.html#section-4"/>
         </navPoint>
         <navPoint id="num_30" playOrder="24" class="chapter">
           <navLabel>
             <text>草原上的两极分化</text>
           </navLabel>
-          <content src="index_split_000.html#p44"/>
+          <content src="text/chapter7.html#section-5"/>
         </navPoint>
         <navPoint id="num_31" playOrder="25" class="chapter">
           <navLabel>
             <text>荒野山地，未开发的草地</text>
           </navLabel>
-          <content src="index_split_000.html#p45"/>
+          <content src="text/chapter7.html#section-6"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_32" playOrder="26" class="chapter">
