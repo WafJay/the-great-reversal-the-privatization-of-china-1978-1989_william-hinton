@@ -205,31 +205,31 @@
           <navLabel>
             <text>失业问题</text>
           </navLabel>
-          <content src="index_split_000.html#p48"/>
+          <content src="text/chapter8.html#section-1"/>
         </navPoint>
         <navPoint id="num_34" playOrder="28" class="chapter">
           <navLabel>
             <text>比例和范围的问题</text>
           </navLabel>
-          <content src="index_split_000.html#p49"/>
+          <content src="text/chapter8.html#section-2"/>
         </navPoint>
         <navPoint id="num_35" playOrder="29" class="chapter">
           <navLabel>
             <text>应当具备的多样性和弹性</text>
           </navLabel>
-          <content src="index_split_000.html#p50"/>
+          <content src="text/chapter8.html#section-3"/>
         </navPoint>
         <navPoint id="num_36" playOrder="30" class="chapter">
           <navLabel>
             <text>适当的社会组织</text>
           </navLabel>
-          <content src="index_split_000.html#p51"/>
+          <content src="text/chapter8.html#section-4"/>
         </navPoint>
         <navPoint id="num_37" playOrder="30" class="chapter">
           <navLabel>
             <text>政府支持的形式</text>
           </navLabel>
-          <content src="index_split_000.html#p51"/>
+          <content src="text/chapter8.html#section-5"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_38" playOrder="31" class="chapter">
