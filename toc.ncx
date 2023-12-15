@@ -236,36 +236,36 @@
         <navLabel>
           <text>重访大寨：1987年</text>
         </navLabel>
-        <content src="index_split_000.html#p53"/>
+        <content src="text/chapter9.html"/>
         <navPoint id="num_39" playOrder="31" class="chapter">
           <navLabel>
             <text>充满偏见的比较</text>
           </navLabel>
-          <content src="index_split_000.html#p53"/>
+          <content src="text/chapter9.html#section-1"/>
         </navPoint>
         <navPoint id="num_40" playOrder="32" class="chapter">
           <navLabel>
             <text>下滑的农业</text>
           </navLabel>
-          <content src="index_split_000.html#p55"/>
+          <content src="text/chapter9.html#section-2"/>
         </navPoint>
         <navPoint id="num_41" playOrder="33" class="chapter">
           <navLabel>
             <text>待拯救的煤矿</text>
           </navLabel>
-          <content src="index_split_000.html#p56"/>
+          <content src="text/chapter9.html#section-3"/>
         </navPoint>
         <navPoint id="num_42" playOrder="34" class="chapter">
           <navLabel>
             <text>诽谤的背后</text>
           </navLabel>
-          <content src="index_split_000.html#p57"/>
+          <content src="text/chapter9.html#section-4"/>
         </navPoint>
         <navPoint id="num_43" playOrder="35" class="chapter">
           <navLabel>
             <text>过去和现在，充满讽刺意味的教训</text>
           </navLabel>
-          <content src="index_split_000.html#p58"/>
+          <content src="text/chapter9.html#section-5"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_44" playOrder="36" class="chapter">
