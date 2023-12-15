@@ -32,6 +32,7 @@
     <item id="id8" href="text/chapter7.html" media-type="application/xhtml+xml"/>
     <item id="id10" href="text/chapter8.html" media-type="application/xhtml+xml"/>
     <item id="id11" href="text/chapter9.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="text/chapter10.html" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
@@ -44,6 +45,7 @@
     <itemref idref="id8"/>
     <itemref idref="id10"/>
     <itemref idref="id11"/>
+    <itemref idref="id13"/>
     <itemref idref="id2"/>
     <itemref idref="id15"/>
     <itemref idref="id12"/>
