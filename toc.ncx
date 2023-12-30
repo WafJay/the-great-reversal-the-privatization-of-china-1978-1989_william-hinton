@@ -325,19 +325,19 @@
           <navLabel>
             <text>新民主主义的提出</text>
           </navLabel>
-          <content src="index_split_000.html#p69"/>
+          <content src="text/chapter11.html#section-1"/>
         </navPoint>
         <navPoint id="num_54" playOrder="44" class="chapter">
           <navLabel>
             <text>饭碗：金的，铁的，瓷的</text>
           </navLabel>
-          <content src="index_split_000.html#p70"/>
+          <content src="text/chapter11.html#section-2"/>
         </navPoint>
         <navPoint id="num_55" playOrder="45" class="chapter">
           <navLabel>
             <text>小土地的保障</text>
           </navLabel>
-          <content src="index_split_000.html#p72"/>
+          <content src="text/chapter11.html#section-3"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_56" playOrder="46" class="chapter">
