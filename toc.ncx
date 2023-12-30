@@ -277,43 +277,43 @@
           <navLabel>
             <text>粮食战线</text>
           </navLabel>
-          <content src="index_split_000.html#p60"/>
+          <content src="text/chapter10.html#section-1"/>
         </navPoint>
         <navPoint id="num_46" playOrder="37" class="chapter">
           <navLabel>
             <text>剪刀差</text>
           </navLabel>
-          <content src="index_split_000.html#p61"/>
+          <content src="text/chapter10.html#section-2"/>
         </navPoint>
         <navPoint id="num_47" playOrder="38" class="chapter">
           <navLabel>
             <text>命令主义（Commandism）</text>
           </navLabel>
-          <content src="index_split_000.html#p62"/>
+          <content src="text/chapter10.html#section-3"/>
         </navPoint>
         <navPoint id="num_48" playOrder="39" class="chapter">
           <navLabel>
             <text>私有化风潮</text>
           </navLabel>
-          <content src="index_split_000.html#p63"/>
+          <content src="text/chapter10.html#section-4"/>
         </navPoint>
         <navPoint id="num_49" playOrder="40" class="chapter">
           <navLabel>
             <text>形“左”实右</text>
           </navLabel>
-          <content src="index_split_000.html#p65"/>
+          <content src="text/chapter10.html#section-5"/>
         </navPoint>
         <navPoint id="num_50" playOrder="41" class="chapter">
           <navLabel>
             <text>文化革命</text>
           </navLabel>
-          <content src="index_split_000.html#p66"/>
+          <content src="text/chapter10.html#section-6"/>
         </navPoint>
         <navPoint id="num_51" playOrder="42" class="chapter">
           <navLabel>
             <text>可疑的政策主张</text>
           </navLabel>
-          <content src="index_split_000.html#p67"/>
+          <content src="text/chapter10.html#section-7"/>
         </navPoint>
       </navPoint>
       <navPoint id="num_52" playOrder="43" class="chapter">
