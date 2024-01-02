@@ -16,8 +16,6 @@
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item id="id" href="text/chapter1.html" media-type="application/xhtml+xml"/>
     <item id="id1" href="text/chapter2.html" media-type="application/xhtml+xml"/>
-    <item id="id15" href="index_split_000.html" media-type="application/xhtml+xml"/>
-    <item id="id12" href="index_split_001.html" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="page_styles.css" media-type="text/css"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
@@ -51,8 +49,6 @@
     <itemref idref="id14"/>
     <itemref idref="id16"/>
     <itemref idref="id2"/>
-    <itemref idref="id15"/>
-    <itemref idref="id12"/>
   </spine>
   <guide>
     <reference type="cover" href="titlepage.xhtml" title="Cover"/>

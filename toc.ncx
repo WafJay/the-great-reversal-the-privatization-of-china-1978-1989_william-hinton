@@ -349,43 +349,43 @@
           <navLabel>
             <text>广播哑了</text>
           </navLabel>
-          <content src="index_split_000.html#p75"/>
+          <content src="text/chapter12.html#section-1"/>
         </navPoint>
         <navPoint id="num_58" playOrder="47" class="chapter">
           <navLabel>
             <text>夜里开火</text>
           </navLabel>
-          <content src="index_split_000.html#p75"/>
+          <content src="text/chapter12.html#section-2"/>
         </navPoint>
         <navPoint id="num_59" playOrder="48" class="chapter">
           <navLabel>
             <text>午后的死亡</text>
           </navLabel>
-          <content src="index_split_000.html#p76"/>
+          <content src="text/chapter12.html#section-3"/>
         </navPoint>
         <navPoint id="num_60" playOrder="49" class="chapter">
           <navLabel>
             <text>给人民一次教训</text>
           </navLabel>
-          <content src="index_split_000.html#p77"/>
+          <content src="text/chapter12.html#section-4"/>
         </navPoint>
         <navPoint id="num_61" playOrder="49" class="chapter">
           <navLabel>
             <text>对强权说真理</text>
           </navLabel>
-          <content src="index_split_000.html#p77"/>
+          <content src="text/chapter12.html#section-5"/>
         </navPoint>
         <navPoint id="num_62" playOrder="50" class="chapter">
           <navLabel>
             <text>被糟蹋的统治权</text>
           </navLabel>
-          <content src="index_split_000.html#p78"/>
+          <content src="text/chapter12.html#section-6"/>
         </navPoint>
         <navPoint id="num_63" playOrder="51" class="chapter">
           <navLabel>
             <text>广大的进步联盟</text>
           </navLabel>
-          <content src="index_split_000.html#p79"/>
+          <content src="text/chapter12.html#section-7"/>
         </navPoint>
       </navPoint>
     </navPoint>
