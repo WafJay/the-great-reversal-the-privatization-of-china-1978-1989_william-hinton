@@ -33,9 +33,11 @@
     <item id="id13" href="text/chapter10.html" media-type="application/xhtml+xml"/>
     <item id="id14" href="text/chapter11.html" media-type="application/xhtml+xml"/>
     <item id="id16" href="text/chapter12.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="toc.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
+    <itemref idref="id12"/>
     <itemref idref="id"/>
     <itemref idref="id1"/>
     <itemref idref="id3"/>
@@ -52,5 +54,6 @@
   </spine>
   <guide>
     <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+    <reference type="toc" title="Table of Contents" href="toc.xhtml#calibre_generated_inline_toc"/>
   </guide>
 </package>
