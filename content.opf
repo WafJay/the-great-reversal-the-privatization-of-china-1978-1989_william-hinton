@@ -20,8 +20,6 @@
     <item id="page_css" href="page_styles.css" media-type="text/css"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
     <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
-    <item id="id9" href="index-3_1.png" media-type="image/png"/>
-    <item id="id2" href="text/endnote.html" media-type="application/xhtml+xml"/>
     <item id="id4" href="toc.css" media-type="text/css"/>
     <item id="id3" href="text/chapter3.html" media-type="application/xhtml+xml"/>
     <item id="id5" href="text/chapter4.html" media-type="application/xhtml+xml"/>
@@ -50,7 +48,6 @@
     <itemref idref="id13"/>
     <itemref idref="id14"/>
     <itemref idref="id16"/>
-    <itemref idref="id2"/>
   </spine>
   <guide>
     <reference type="cover" href="titlepage.xhtml" title="Cover"/>
